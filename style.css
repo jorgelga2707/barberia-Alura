@@ -221,6 +221,7 @@ td,th{
 }
 
 .mapa{
+    width: 100%;
     padding: 3em 0;
     background: linear-gradient(#FEFEFE, #888888)
 }
